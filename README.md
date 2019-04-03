@@ -1,5 +1,5 @@
 # neumooc.com question helper
-	a little tool for you to filter the useless text.
+a little tool for you to filter the useless text.
 
 ## What you need 
 you will need 
@@ -7,4 +7,4 @@ you will need
 	- the answer file (cURL may help)
 
 ## How to use
-	for example: `python solver.py < ANSWER_FILE`
+for example: `python solver.py < ANSWER_FILE`
